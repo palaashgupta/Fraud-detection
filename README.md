@@ -1,4 +1,4 @@
-# Decription: Fraud-detection with imbalanced dataset
+# Decription: Fraud-detection with imbalanced dataset using SMOTE Tomek sampling methods.
 Credit Card Fraud Detection using various Linear and Non Linear machine learning model.
 
 # Source of The Data: 
